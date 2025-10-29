@@ -1,0 +1,1 @@
+•	Implemented a predictive maintenance pipeline using the ai4i2020 dataset to detect machine failures: performed feature engineering, trained Random Forest and Logistic Regression models, evaluated performance with confusion matrices, and generated per-sample explanations using eli5 for model interpretability
